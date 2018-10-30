@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:05:36 On 14/10/2018
+
+Output: Export STEP Model of complete PCB
+Type  : ExportSTEP
+From  : Variant [Screw Terminals] of PCB Document [Big Coil Gate Drive PCBA.PcbDoc]
+   Generated File[Export STEP Model of complete PCB_Big Coil Gate Drive PCBA-(Screw Terminals).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:05:37 On 14/10/2018

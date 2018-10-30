@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:05:42 On 14/10/2018
+
+Output: BoM CSV
+Type  : BOM
+From  : Variant [Screw Terminals] of Project [Big Coil Gate Drive PCBA.PrjPCB]
+   Generated File[BoM CSV-Big Coil Gate Drive PCBA(Screw Terminals).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:05:46 On 14/10/2018

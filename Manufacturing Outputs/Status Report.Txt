@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Big Coil Gate Drive PCBA.PcbDoc]
+   Generated File[Big Coil Gate Drive PCBA.TXT]
+   Generated File[Big Coil Gate Drive PCBA.LDP]
+   Generated File[Big Coil Gate Drive PCBA.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:04:13 On 14/10/2018
